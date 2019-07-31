@@ -1,0 +1,10 @@
+1,Renault,Scenic,3
+2,Peugeut,307,2
+1,Renault,Megane,4
+3,Citroen,c3,5
+3,Citroen,c5,3
+4,Opel,Astra,2
+4,Opel,Corsa,5
+4,Opel,Omega,1
+5,Chevrolet,Aveo,6
+5,Chevrolet,Captiva,1
